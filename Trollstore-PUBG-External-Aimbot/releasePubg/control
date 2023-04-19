@@ -1,0 +1,10 @@
+Package: com.carson.test
+Name:  Mod Menu
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description:  Mod Menu by carson!
+Maintainer: carson
+Author: carson
+Section: Tweaks
+Homepage: 
